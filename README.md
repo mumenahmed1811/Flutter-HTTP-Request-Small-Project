@@ -1,4 +1,4 @@
-# http_try
+# HTTP Requests Project
 
 A new Flutter application.
 
